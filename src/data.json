@@ -1,0 +1,22 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Batman El Caballero de la noche asciende",
+            "year": "2012",
+            "image": "images/maxresdefault.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "Batman El Caballero de la noche asciende",
+            "year": "2012",
+            "image": "images/maxresdefault.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Batman El Caballero de la noche asciende",
+            "year": "2012",
+            "image": "images/maxresdefault.jpeg"
+        }
+    ]
+}
